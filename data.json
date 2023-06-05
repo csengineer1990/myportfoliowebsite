@@ -1,0 +1,32 @@
+{
+  "services": [
+    {
+      "title": "Full stack Developer",
+      "icon": "web"
+    },
+    {
+      "title": "Java/Android Developer",
+      "icon": "mobile"
+    },
+    {
+      "title": "Cyber Security",
+      "icon": "backend"
+    },
+    {
+      "title": "Database Developer",
+      "icon": "creator"
+    },
+    {
+      "title": "Sofware Tester",
+      "icon": "creator"
+    },
+    {
+      "title": "Service Provider",
+      "icon": "rg"
+    },
+    {
+      "title": "Content Creator",
+      "icon": "creator"
+    }
+  ]
+}
