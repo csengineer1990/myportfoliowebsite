@@ -43,6 +43,7 @@ import sws from "./tech/sws.png";
 import dcweb from "./tech/dcweb.png";
 import ngpprop from "./tech/ngpprop.png";
 
+import coderedlogo from "./tech/coderedlogo.png";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -101,4 +102,5 @@ export {
   sws,
   dcweb,
   ngpprop,
+  coderedlogo,
 };
