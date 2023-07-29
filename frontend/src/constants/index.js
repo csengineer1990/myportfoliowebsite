@@ -44,6 +44,10 @@ import {
   dcweb,
   ngpprop,
   coderedlogo,
+  Maven,
+  Cucumber,
+  Selenium,
+  Testng,
 } from "../assets";
 
 export const navLinks = [
@@ -94,6 +98,22 @@ const services = [
 ];
 
 const technologies = [
+  {
+    name: "Selenium",
+    icon: Selenium,
+  },
+  {
+    name: "Testng",
+    icon: Testng,
+  },
+  {
+    name: "Cucumber",
+    icon: Cucumber,
+  },
+  {
+    name: "Maven",
+    icon: Maven,
+  },
   {
     name: "HTML",
     icon: html,
@@ -213,7 +233,7 @@ const testimonials = [
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Roshan proved me wrong.",
     name: "Archana Manjre",
-    designation: "Co-Founder",
+    designation: "Founder and MD",
     company: "SaiInformatics (DoctorsCloud) Inc",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
@@ -221,7 +241,7 @@ const testimonials = [
     testimonial:
       "I've never met a Full stack developer and Entrepreneur who truly cares about their clients' success like Roshan does.",
     name: "Ram Bhand",
-    designation: "Founder",
+    designation: "Founder and CTO, CEO",
     company: "SWS Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },

@@ -44,8 +44,14 @@ import dcweb from "./tech/dcweb.png";
 import ngpprop from "./tech/ngpprop.png";
 
 import coderedlogo from "./tech/coderedlogo.png";
+import Selenium from "./tech/selenium.png";
+import Cucumber from "./tech/cucumber.png";
+import Testng from "./tech/testng.png";
+import Maven from "./tech/Maven.png";
+
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
+
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
@@ -103,4 +109,8 @@ export {
   dcweb,
   ngpprop,
   coderedlogo,
+  Selenium,
+  Cucumber,
+  Testng,
+  Maven,
 };
