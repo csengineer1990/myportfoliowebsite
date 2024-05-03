@@ -186,7 +186,7 @@ const experiences = [
     company_name: 'Codered Software Pvt Ltd,',
     icon: coderedlogo,
     iconBg: '#383E56',
-    date: 'May 2020 - Jul 2023',
+    date: 'Jul 2020 - Nov 2023',
     points: [
       'Engaged in analyzing requirements and collaborating with the BA team for clear understanding.Responsible for managing test deliverables, prioritized activities, and tracked feature timelines.My role involved creating detailed test cases based on requirements, executing functional,regression, and smoke tests, and meticulously documenting defects using a defect tracking tool.',
     ],
@@ -206,7 +206,7 @@ const experiences = [
     company_name: 'DoctorsCloud (acquired by Sai Informatics Pvt Ltd), Nagpur',
     icon: doctocloud,
     iconBg: '#383E56',
-    date: 'Jan 2013 - Apr 2020',
+    date: 'Nov 2012 - May 2020',
     points: [
       'Excelled in developing high-performing products across multi-project environments, leadingdeployments, and achieving a significant 25% sales boost. Collaborating cross-functionally, Ienhanced user experience and satisfaction. My expertise spans strategic thinking, marketresearch, product development, effective marketing, personnel management, and soundfinancial planning for sustainable growth.',
     ],
@@ -405,3 +405,4 @@ export {
   projects,
   certifications,
 };
+

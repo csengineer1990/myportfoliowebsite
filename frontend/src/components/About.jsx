@@ -59,14 +59,14 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         I am a Software Engineer and Entrepreneur with a strong passion for
-        technology and business. I have experience in full-stack web development
-        and proficient in HTML, CSS, JavaScript, React JS, NodeJs, Express Js,
-        MongoDB, GitHub, and DSA with Java, Android. I have successfully managed
-        business operations, collaborated with teams, and developed optimized
-        software products. With expertise in HR administration, MS SQL Server,
-        MySQL, and MongoDB, I excels in software product and project management.
-        I have completed course certifications in Ethical Hacking, Java, and
-        Android Development!
+        technology and business. Results-driven Software Engineer and Entrepreneur 
+        with 9+ years of experience. Skilled in automated testing (Selenium with Java), Agile methodologies and troubleshooting. Proficient in Java and
+        Android development. CMy skill set extends to JavaScript, CSS/HTML, MERN Stack,
+        Wordpress and database systems including MSSQL and MySQL.
+        Strong technical abilities and a track record of delivering high-quality results.
+        I excels in software product and project management.
+        Cybersecurity advocate committed to fortifying digital realms.
+        
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
@@ -79,3 +79,8 @@ const About = () => {
 };
 
 export default SectionWrapper(About, "about");
+
+
+/**
+ * Results-driven Software Engineer and Entrepreneur with 9+ years of experience. Skilled in automated testing (Selenium with Java), Agile methodologies and troubleshooting. Proficient in Java and Android development. My skill set extends to JavaScript, CSS/HTML, MERN Stack, Wordpress and database systems including MSSQL and MySQL. Strong technical abilities and a track record of delivering high-quality results.  Cybersecurity advocate committed to fortifying digital realms.
+ */
